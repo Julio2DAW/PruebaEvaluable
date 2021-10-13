@@ -11,12 +11,8 @@
 
 //Declara aquí las clases
 class Vehiculo {
+  constructor() {
 
-  constructor(fechaFabricacion) {
-    this.fechaFabricacion = fecha
-  }
-  vender(comprador){
-    this.comprador = texto
   }
 }
 class Coche {

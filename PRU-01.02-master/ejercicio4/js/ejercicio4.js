@@ -34,7 +34,7 @@ class Personaje{
     this.vivo = true
   }
   hablar(texto){
-    console.log('${this.nombre}: "${texto}"' )
+    console.log(`${this.nombre}: ${texto}` )
   }
   dispararA(personaje){
     arma.disparar()
